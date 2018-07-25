@@ -1,0 +1,10 @@
+C:\Users\Blake\Desktop\CSharp\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.deps.json
+C:\Users\Blake\Desktop\CSharp\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.runtimeconfig.json
+C:\Users\Blake\Desktop\CSharp\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.runtimeconfig.dev.json
+C:\Users\Blake\Desktop\CSharp\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.dll
+C:\Users\Blake\Desktop\CSharp\mvcnew\bin\Debug\netcoreapp2.0\mvcnew.pdb
+C:\Users\Blake\Desktop\CSharp\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Desktop\CSharp\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.AssemblyInfoInputs.cache
+C:\Users\Blake\Desktop\CSharp\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.AssemblyInfo.cs
+C:\Users\Blake\Desktop\CSharp\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.dll
+C:\Users\Blake\Desktop\CSharp\mvcnew\obj\Debug\netcoreapp2.0\mvcnew.pdb
